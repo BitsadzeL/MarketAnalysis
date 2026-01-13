@@ -1,4 +1,5 @@
-📊 Sales & Customer Data Analysis Dashboard
+📊 Sales & Customer Data Analysis Dashboard 
+
 📌 Project Description
 
 This project analyzes sales, customer, and product data to extract business insights using Python, Pandas, and Matplotlib.
