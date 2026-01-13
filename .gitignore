@@ -1,0 +1,34 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm project files
+.idea/
+*.iml
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Python environment variables
+.env
+.env.*

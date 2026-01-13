@@ -1,0 +1,10 @@
+product_id,category,subcategory,product_name,brand
+1,Electronics,Phone,Phone Model 1,Brand5
+2,Electronics,Laptop,Laptop Model 2,Brand4
+3,Electronics,Tablet,Tablet Model 3,Brand1
+4,Clothing,T-Shirt,T-Shirt Model 4,Brand4
+5,Clothing,Jeans,Jeans Model 5,Brand1
+6,Clothing,Jacket,Jacket Model 6,Brand1
+7,Home,Mixer,Mixer Model 7,Brand1
+8,Home,Toaster,Toaster Model 8,Brand5
+9,Home,Kettle,Kettle Model 9,Brand2
